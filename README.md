@@ -20,5 +20,13 @@ npm run build
 npm run lint
 ```
 
+### API Query
+```
+https://api.jikan.moe/v3/search/anime?q=naruto
+
+```
+
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
