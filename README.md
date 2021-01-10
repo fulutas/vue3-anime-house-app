@@ -1,4 +1,4 @@
-# vue-anime-app
+# vue3-anime-app
 
 ## Project setup
 ```
