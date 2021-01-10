@@ -20,6 +20,12 @@ npm run build
 npm run lint
 ```
 
+### API Docs
+```
+https://jikan.docs.apiary.io/#reference/0/anime
+
+```
+
 ### API Query
 ```
 https://api.jikan.moe/v3/search/anime?q=naruto
